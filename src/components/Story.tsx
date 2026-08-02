@@ -574,7 +574,7 @@ export function Trailer() {
         className="video-frame relative rounded-3xl overflow-hidden bg-black max-w-4xl mx-auto"
       >
         <video
-          src="https://videos.pexels.com/video-files/34677880/14698571_1920_1080_25fps.mp4"
+          src="https://youtu.be/Dkv4ZNn0AfA?si=kI6Nve6dTC3FYTA4"
           poster="images/trailer-poster.jpg"
           controls
           playsInline
